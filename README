@@ -1,0 +1,4 @@
+The following pip packages are required:
+* Tensorflow
+* Keras
+* Pillow
